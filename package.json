@@ -1,0 +1,14 @@
+{
+  "name": "iot-pest-detection",
+  "version": "1.0.0",
+  "description": "iot-pest-detection",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon server.js"
+  },
+  "author": "Luis",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
